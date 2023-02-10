@@ -7,7 +7,7 @@
       <div>React</div>
     </td>
     <td>
-      <img src="https://media.crystallize.com/crystallize_marketing/23/1/14/6/@500/next_js_logo.webp" width="50px" />
+      <img src="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png" width="50px" />
       <div>Next.js</div>
     </td>
   </tr>
