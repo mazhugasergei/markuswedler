@@ -42,7 +42,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="/logos/npm.png" width="50" />
+      <img src="/logos/npm.svg" width="50" />
       <div>npm</div>
     </td>
     <td align="center">
