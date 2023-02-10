@@ -18,6 +18,14 @@
       <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="50px" />
       <div>Redux</div>
     </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png" width="50px" />
+      <div>SASS</div>
+    </td>
+  </tr>
+  <tr>
     <td align="center">
       <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width="50px" />
       <div>Git</div>
