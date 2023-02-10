@@ -8,7 +8,7 @@
     </td>
     <td align="center">
       <img src="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png" width="50px" />
-      <div>Next.js sdf sdf sfsdf s</div>
+      <div>Next.js</div>
     </td>
   </tr>
 </table>
