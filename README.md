@@ -1,5 +1,5 @@
 # Hi, I'm Markus 👋
-A front-end web developer with a passion for creating visually stunning and intuitive websites
+<b>A front-end web developer with a passion for creating visually stunning and intuitive websites</b>
 
 <h2>My experience</h2>
 
