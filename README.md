@@ -3,11 +3,11 @@
 <table>
   <tr>
     <td>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="100px" />
       <div>React</div>
     </td>
     <td>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" width="100px" />
       <div>Next.js</div>
     </td>
   </tr>
