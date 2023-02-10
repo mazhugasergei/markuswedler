@@ -14,5 +14,9 @@
       <img src="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png" width="50px" />
       <div>Next.js</div>
     </td>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width="50px" />
+      <div>Git</div>
+    </td>
   </tr>
 </table>
