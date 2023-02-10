@@ -29,7 +29,7 @@
       <div>CSS</div>
     </td>
     <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png" width="50" height="50" />
+      <img src="https://camo.githubusercontent.com/ceb810784f2bc1e1815e427f42d1134e5650943d43a6e94deb8b7075ab3e10c5/68747470733a2f2f6272616e646570732e636f6d2f69636f6e2d646f776e6c6f61642f532f536173732d69636f6e2d766563746f722d30342e737667" width="50" height="50" />
       <div>SASS</div>
     </td>
     <td align="center">
