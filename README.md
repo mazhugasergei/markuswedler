@@ -7,7 +7,7 @@
       <div>React</div>
     </td>
     <td>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" width="50px" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" width="50px" style="margin-bottom: 100%;" />
       <div>Next.js</div>
     </td>
   </tr>
