@@ -1,6 +1,9 @@
 ### Hi there 👋
 
+<h2>Tech stack</h2>
+
 <table>
+  > JavaScript
   <tr>
     <td align="center">
       <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="50" />
