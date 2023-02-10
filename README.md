@@ -4,11 +4,11 @@
   <tr>
     <td>
       <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="50px" />
-      <div>React</div>
+      <div align="center">React</div>
     </td>
     <td>
       <img src="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png" width="50px" />
-      <div>Next.js</div>
+      <div align="center">Next.js</div>
     </td>
   </tr>
 </table>
