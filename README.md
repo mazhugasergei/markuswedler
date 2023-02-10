@@ -50,7 +50,7 @@
       <div>Git</div>
     </td>
     <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="50" />
+      <img src="/logos/github.png" width="50" />
       <div>GitHub</div>
     </td>
   </tr>
