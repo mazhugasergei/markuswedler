@@ -42,6 +42,10 @@
   </tr>
   <tr>
     <td align="center">
+      <img src="https://seeklogo.com/images/N/npm-logo-F0E1FE956F-seeklogo.com.png" width="50" />
+      <div>npm</div>
+    </td>
+    <td align="center">
       <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width="50" />
       <div>Git</div>
     </td>
