@@ -18,5 +18,9 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width="50px" />
       <div>Git</div>
     </td>
+    <td align="center">
+      <img src="https://www.pngfind.com/pngs/m/176-1766942_our-github-repos-are-here-github-icon-hd.png" width="50px" />
+      <div>GitHub</div>
+    </td>
   </tr>
 </table>
