@@ -2,7 +2,6 @@
 
 <h2>Tech stack</h2>
 
-> JavaScript
 <table>
   <tr>
     <td align="center">
