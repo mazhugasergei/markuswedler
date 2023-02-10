@@ -14,7 +14,7 @@
       <div>React</div>
     </td>
     <td align="center">
-      <img src="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png" width="50" />
+      <img src="/logos/next.png" width="50" />
       <div>Next.js</div>
     </td>
     <td align="center">
