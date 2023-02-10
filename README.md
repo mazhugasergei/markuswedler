@@ -32,6 +32,10 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png" width="50px" />
       <div>SASS</div>
     </td>
+    <td align="center">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="50px" />
+      <div>Figma</div>
+    </td>
   </tr>
   <tr>
     <td align="center">
