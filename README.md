@@ -2,8 +2,8 @@
 
 <h2>Tech stack</h2>
 
+> JavaScript
 <table>
-  > JavaScript
   <tr>
     <td align="center">
       <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="50" />
