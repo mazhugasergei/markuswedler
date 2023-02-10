@@ -21,6 +21,14 @@
   </tr>
   <tr>
     <td align="center">
+      <img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg" width="50px" />
+      <div>HTML</div>
+    </td>
+    <td align="center">
+      <img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-original.svg" width="50px" />
+      <div>CSS</div>
+    </td>
+    <td align="center">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png" width="50px" />
       <div>SASS</div>
     </td>
