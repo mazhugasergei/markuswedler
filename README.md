@@ -47,7 +47,11 @@
   <tr>
     <td align="center">
       <img src="/logos/npm.svg" width="50" />
-      <div>npm</div>
+      <div>Npm</div>
+    </td>
+    <td align="center">
+      <img src="/logos/yarn.svg" width="50" />
+      <div>Yarn</div>
     </td>
     <td align="center">
       <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width="50" />
