@@ -4,6 +4,7 @@
 ### My experience
 
 ![Typescript](https://badgen.net/badge/icon/typescript?icon=typescript&label)&nbsp;
+![React](https://badgen.net/badge/icon/react?icon=react&label)&nbsp;
 
 <table>
   <tr>
