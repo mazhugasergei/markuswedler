@@ -3,10 +3,7 @@
 
 ### My experience
 
-<ul>
-  <li>1</li>
-  <li>2</li>
-</ul>
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="10" /> Typescript
 
 <table>
   <tr>
