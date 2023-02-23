@@ -50,7 +50,7 @@
       <div>Npm</div>
     </td>
     <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Yarn-logo-kitten.svg/1024px-Yarn-logo-kitten.svg.png?20220521160407" width="50" />
+      <img src="/logos/yarn.svg" width="50" />
       <div>Yarn</div>
     </td>
     <td align="center">
