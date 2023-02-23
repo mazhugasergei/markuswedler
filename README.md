@@ -3,7 +3,7 @@
 
 ### My experience
 
-![Typescript](https://badgen.net/badge/icon/TypeScript/typescript?icon=react&label)&nbsp;
+![Typescript](https://badgen.net/badge/icon/TypeScript/typescript?icon=reactjs&label)&nbsp;
 
 <table>
   <tr>
