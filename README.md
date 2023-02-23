@@ -14,7 +14,7 @@
       <div>React</div>
     </td>
     <td align="center">
-      <img src="/logos/react-router.svg" width="50" />
+      <img src="/logos/router.svg" width="50" />
       <div>Router</div>
     </td>
     <td align="center">
