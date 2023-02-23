@@ -3,8 +3,7 @@
 
 ### My experience
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="15" /> Typescript
-https://badgen.net/badge/:subject/:status/:color?icon=github
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 
 <table>
   <tr>
