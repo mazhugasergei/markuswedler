@@ -3,7 +3,7 @@
 
 ### My experience
 
-[Typescript](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Typescript](https://badgen.net/badge/:typescript/:status/:202020?icon=github)&nbsp;
 
 <table>
   <tr>
