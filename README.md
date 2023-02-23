@@ -15,7 +15,7 @@
     </td>
     <td align="center">
       <img src="/logos/react-router.svg" width="50" />
-      <div>React Router</div>
+      <div>Router</div>
     </td>
     <td align="center">
       <img src="/logos/redux.svg" width="50" />
