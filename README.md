@@ -10,7 +10,7 @@
       <div>Typescript</div>
     </td>
     <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="50" />
+      <img href="/" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="50" />
       <div>React</div>
     </td>
     <td align="center">
