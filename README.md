@@ -1,7 +1,7 @@
 # Hi, I'm Markus 👋
 <b>A front-end web developer with a passion for creating visually stunning and intuitive websites</b>
 
-<h2>My experience</h2>
+### My experience
 
 <table>
   <tr>
