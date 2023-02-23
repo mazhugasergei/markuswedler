@@ -14,12 +14,16 @@
       <div>React</div>
     </td>
     <td align="center">
-      <img src="/logos/next.png" width="50" />
-      <div>Next.js</div>
+      <img src="/logos/react-router.svg" width="50" />
+      <div>React Router</div>
     </td>
     <td align="center">
       <img src="/logos/redux.svg" width="50" />
       <div>Redux</div>
+    </td>
+    <td align="center">
+      <img src="/logos/next.png" width="50" />
+      <div>Next.js</div>
     </td>
   </tr>
   <tr>
