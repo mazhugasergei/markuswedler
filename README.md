@@ -3,8 +3,8 @@
 
 ### My experience
 
-![Typescript](https://badgen.net/badge/icon/TypeScript?icon=typescript&label)&nbsp;
-![React](https://badgen.net/badge/icon/react?icon=react&label)&nbsp;
+![Typescript](https://badgen.net/badge/icon/TypeScript/202020?icon=typescript&label)&nbsp;
+![React](https://badgen.net/badge/icon/React/202020?icon=react&label)&nbsp;
 
 <table>
   <tr>
