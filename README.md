@@ -62,7 +62,7 @@
 
 #
 
-## Contact
+### Contact
 Email: <a href="mailto:ghbdtnghbdtn8@gmail.com">ghbdtnghbdtn8@gmail.com</a>
 <br>
 Discord: <a href="discordapp.com/users/400564670513152001">MarkusWedler#0735</a>
