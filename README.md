@@ -66,7 +66,5 @@
 
 ##
 
-### Contact
-Email: [ghbdtnghbdtn8@gmail.com](mailto:ghbdtnghbdtn8@gmail.com)
-<br>
+### Discord
 Discord: [MarkusWedler#0735](https://discord.com/users/400564670513152001)
