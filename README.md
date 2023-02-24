@@ -66,5 +66,5 @@
 
 ##
 
-### Discord
+### Contact
 Discord: [MarkusWedler#0735](https://discord.com/users/400564670513152001)
