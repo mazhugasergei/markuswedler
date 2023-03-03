@@ -22,6 +22,10 @@
       <div>Redux Toolkit</div>
     </td>
     <td align="center">
+      <img src="https://react-query-v3.tanstack.com/_next/static/images/emblem-light-628080660fddb35787ff6c77e97ca43e.svg" width="50" />
+      <div>React Query</div>
+    </td>
+    <td align="center">
       <img src="/logos/next.png" width="50" />
       <div>Next.js</div>
     </td>
