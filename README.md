@@ -19,7 +19,7 @@
     </td>
     <td align="center">
       <img src="/logos/redux.svg" width="50" />
-      <div>Redux</div>
+      <div>Redux Toolkit</div>
     </td>
     <td align="center">
       <img src="/logos/next.png" width="50" />
