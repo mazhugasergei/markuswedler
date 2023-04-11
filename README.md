@@ -35,7 +35,6 @@
 
 ### UI
 <table>
-  <tr></tr>
   <tr>
     <td align="center">
       <img src="/logos/html.svg" width="50" />
@@ -68,7 +67,6 @@
 
 ### Workflow
 <table>
-  <tr></tr>
   <tr>
     <td align="center">
       <img src="/logos/npm.svg" width="50" />
