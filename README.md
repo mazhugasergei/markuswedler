@@ -1,8 +1,9 @@
 # Hi, I'm Sergei 👋
 <b>A front-end web developer with a passion for creating visually stunning and intuitive websites</b>
 
-### My experience
+## My experience
 
+### JavaScript
 <table>
   <tr>
     <td align="center">
@@ -30,6 +31,10 @@
       <div>Next.js</div>
     </td>
   </tr>
+</table>
+
+### UI
+<table>
   <tr>
     <td align="center">
       <img src="/logos/html.svg" width="50" />
@@ -48,6 +53,11 @@
       <div>Figma</div>
     </td>
   </tr>
+</table>
+
+### Workflow
+<table>
+  <tr>
   <tr>
     <td align="center">
       <img src="/logos/npm.svg" width="50" />
