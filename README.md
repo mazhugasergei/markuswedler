@@ -57,6 +57,7 @@
 </table>
 
 ### Tests
+<table>
   <tr>
     <td align="center">
       <img src="https://www.adaptivewfs.com/wp-content/uploads/2020/07/logo-placeholder-image.png" width="50" />
