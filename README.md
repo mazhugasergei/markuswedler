@@ -56,8 +56,18 @@
   </tr>
 </table>
 
+### Tests
+  <tr>
+    <td align="center">
+      <img src="https://www.adaptivewfs.com/wp-content/uploads/2020/07/logo-placeholder-image.png" width="50" />
+      <div>Lorem Ipsum</div>
+    </td>
+  </tr>
+</table>
+
 ### Workflow
 <table>
+  <tr></tr>
   <tr>
     <td align="center">
       <img src="/logos/npm.svg" width="50" />
