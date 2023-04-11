@@ -15,20 +15,24 @@
       <div>React</div>
     </td>
     <td align="center">
-      <img src="/logos/router.svg" width="50" />
-      <div>React Router</div>
+      <img src="/logos/next.png" width="50" />
+      <div>Next.js</div>
     </td>
     <td align="center">
-      <img src="/logos/redux.svg" width="50" />
-      <div>Redux Toolkit</div>
+      <img src="/logos/router.svg" width="50" />
+      <div>React Router</div>
     </td>
     <td align="center">
       <img src="/logos/react-query.svg" width="50" />
       <div>React Query</div>
     </td>
     <td align="center">
-      <img src="/logos/next.png" width="50" />
-      <div>Next.js</div>
+      <img src="/logos/redux.svg" width="50" />
+      <div>Redux Toolkit</div>
+    </td>
+    <td align="center">
+      <img src="/logos/zustand.png" width="50" />
+      <div>Zustand</div>
     </td>
   </tr>
 </table>
