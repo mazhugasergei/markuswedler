@@ -56,6 +56,10 @@
       <img src="/logos/figma.svg" width="50" />
       <div>Figma</div>
     </td>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png" width="50" />
+      <div>Adobe XD</div>
+    </td>
   </tr>
 </table>
 
