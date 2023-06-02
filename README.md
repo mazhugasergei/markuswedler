@@ -3,19 +3,19 @@
 
 ## My experience
 
-### JavaScript
+### Frontend
 <table>
   <tr>
     <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="50" />
+      <img src="/logos/typescript.svg" width="50" />
       <div>Typescript</div>
     </td>
     <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="50" />
+      <img src="/logos/react.svg" width="50" />
       <div>React</div>
     </td>
     <td align="center">
-      <img src="/logos/next.png" width="50" />
+      <img src="/logos/next.svg" width="50" />
       <div>Next.js</div>
     </td>
     <td align="center">
@@ -23,7 +23,7 @@
       <div>React Router</div>
     </td>
     <td align="center">
-      <img src="/logos/react-query.svg" width="50" />
+      <img src="/logos/query.svg" width="50" />
       <div>React Query</div>
     </td>
     <td align="center">
@@ -31,8 +31,22 @@
       <div>Redux Toolkit</div>
     </td>
     <td align="center">
-      <img src="/logos/zustand.png" width="50" />
+      <img src="/logos/zustand.svg" width="50" />
       <div>Zustand</div>
+    </td>
+  </tr>
+</table>
+
+### Backend (basics)
+<table>
+  <tr>
+    <td align="center">
+      <img src="/logos/node.svg" width="50" />
+      <div>Node.js</div>
+    </td>
+    <td align="center">
+      <img src="/logos/express.svg" width="50" />
+      <div>Express</div>
     </td>
   </tr>
 </table>
@@ -57,7 +71,7 @@
       <div>Figma</div>
     </td>
     <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png" width="50" />
+      <img src="/logos/adobe_xd.svg" width="50" />
       <div>Adobe XD</div>
     </td>
   </tr>
@@ -67,7 +81,7 @@
 <table>
   <tr>
     <td align="center">
-      <img src="/logos/playwright.png" width="50" />
+      <img src="/logos/playwright.svg" width="50" />
       <div>Playwright</div>
     </td>
   </tr>
@@ -85,11 +99,11 @@
       <div>Yarn</div>
     </td>
     <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width="50" />
+      <img src="/logos/git.svg" width="50" />
       <div>Git</div>
     </td>
     <td align="center">
-      <img src="/logos/github.png" width="50" />
+      <img src="/logos/github.svg" width="50" />
       <div>GitHub</div>
     </td>
   </tr>
