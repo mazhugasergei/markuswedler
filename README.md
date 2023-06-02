@@ -19,8 +19,18 @@
       <div>SASS</div>
     </td>
     <td align="center">
+      <img src="/logos/javascript.svg" width="50" />
+      <div>JavaScript</div>
+    </td>
+  </tr>
+</table>
+
+### JavaScript
+<table>
+  <tr>
+    <td align="center">
       <img src="/logos/typescript.svg" width="50" />
-      <div>Typescript</div>
+      <div>TypeScript</div>
     </td>
     <td align="center">
       <img src="/logos/react.svg" width="50" />
