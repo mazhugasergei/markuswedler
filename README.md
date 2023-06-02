@@ -1,6 +1,8 @@
 # Hi, I'm Sergei 👋
 <b>A front-end web developer with a passion for creating visually stunning and intuitive websites</b>
 
+![Overall Stats](https://github-readme-stats.vercel.app/api?username=mazhugasergei&count_private=true&show_icons=true&hide=contribs)
+
 ## My experience
 
 ### Front-end
