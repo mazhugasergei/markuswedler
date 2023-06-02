@@ -3,9 +3,21 @@
 
 ## My experience
 
-### Frontend
+### Front-end
 <table>
   <tr>
+    <td align="center">
+      <img src="/logos/html.svg" width="50" />
+      <div>HTML</div>
+    </td>
+    <td align="center">
+      <img src="/logos/css.svg" width="50" />
+      <div>CSS</div>
+    </td>
+    <td align="center">
+      <img src="/logos/sass.svg" width="50" />
+      <div>SASS</div>
+    </td>
     <td align="center">
       <img src="/logos/typescript.svg" width="50" />
       <div>Typescript</div>
@@ -37,7 +49,7 @@
   </tr>
 </table>
 
-### Backend (basics)
+### Back-end (basics)
 <table>
   <tr>
     <td align="center">
@@ -54,18 +66,6 @@
 ### UI
 <table>
   <tr>
-    <td align="center">
-      <img src="/logos/html.svg" width="50" />
-      <div>HTML</div>
-    </td>
-    <td align="center">
-      <img src="/logos/css.svg" width="50" />
-      <div>CSS</div>
-    </td>
-    <td align="center">
-      <img src="/logos/sass.svg" width="50" />
-      <div>SASS</div>
-    </td>
     <td align="center">
       <img src="/logos/figma.svg" width="50" />
       <div>Figma</div>
