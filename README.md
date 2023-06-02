@@ -1,9 +1,9 @@
 # Hi, I'm Sergei 👋
 <b>A front-end web developer with a passion for creating visually stunning and intuitive websites</b>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mazhugasergei&layout=compact&theme=dark)
-
 ## My experience
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mazhugasergei&layout=compact&theme=dark)
 
 ### Front-end
 <table>
